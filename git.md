@@ -8,6 +8,8 @@
 
 `git commit -m "message"`: commit you changes
 
+`git remote add origin https://...`: link your project to a repo on github (you can copy this line from github after creating the repo)
+
 `git push origin master`: push to github
 
 `git status`: check which files have changed
