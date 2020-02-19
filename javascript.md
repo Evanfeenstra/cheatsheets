@@ -67,3 +67,36 @@ obj.child.sayHi()
 // OR you can use square brackets also
 obj['child']['sayHi']()
 ```
+
+### if statements
+```js
+if(2>1){
+    console.log('yes! math is real!')
+}
+if('this is a string'){
+    console.log('yes')
+}
+if(1){
+    console.log('yes')
+}
+
+false, '', 0 // are false
+
+if(''){
+    console.log('nope')
+}
+
+if(1 && 0){ // and
+    console.log('nope')
+}
+if(1 || 0){ // or
+    console.log('yes!')
+}
+
+if(1=='1'){
+    console.log('yes!')
+}
+if(1==='1'){ // checks the type as well
+    console.log('no!')
+}
+```
