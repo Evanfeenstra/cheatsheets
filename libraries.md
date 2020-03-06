@@ -39,6 +39,16 @@
  - yup (form validation)
  - react-final-forms
 
+### super cool stuff
+ - Web Audio API
+ - audio: tone.js
+ - https://www.npmjs.com/package/react-speech-recognition
+ - Web Bluetooth API
+ - HTML5 Canvas 
+ - Games: https://phaser.io/
+ - SVG animations: https://maxwellito.github.io/vivus/
+ - SVGs in general are super cool!
+
 ### super-pro
  - typescript! (`npm create-react-app my-app --template typescript`)
  - react-native (build a native app!)
